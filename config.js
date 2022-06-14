@@ -4,8 +4,8 @@ global.mods = JSON.parse(fs.readFileSync('./src/moderator.json')) // Want some h
 global.thumbt = global.img
 global.fsx = 999999999999
 global.kontak = [
-['62895336282144', '𝚃𝚑𝚎.𝚂𝚊𝚍.𝙱𝚘𝚢𝟶𝟷', true],
-['6282140373458', 'Raxcel-MD ⁴⁰⁴-ﾉ [BOT MD]', true]
+['6282142108243', 'RAMA', true],
+['62887436223985', 'NIN0 G4Y', true]
 ]
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -53,13 +53,13 @@ global.dtc = '𝒄𝒂𝒍𝒍 𝒐𝒘𝒏𝒆𝒓'
 global.phn = '+62 895-3362-82144'
 
 //========== Tampilan Bot =============//
-global.sa = '╭─'
-global.gx = '│✇'
-global.gy = '│•'
-global.gz = '│'
-global.sb = '╰────࿐'
-global.kki = '「'
-global.kka = '」'
+global.sa = ''
+global.gx = '~>'
+global.gy = '->'
+global.gz = ''
+global.sb = ''
+global.kki = ''
+global.kka = ''
 global.zt = '*'
 global.zc = ''
 
