@@ -20,8 +20,6 @@ const defaultMenu = {
 
 *»* Uptime: *%uptime (%muptime)*
 *»* Database: %rtotalreg dari %totalreg
-*»* Github:
-*»* %github
 
 *»* Note :
 *»* *Ⓟ* = Premium
